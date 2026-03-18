@@ -1,5 +1,6 @@
 
 '''
+
 Assignment 1
 Challenge: Handle cases where the user enters non-numeric input for the principal amount, interest rate, or time period, and provide appropriate error messages.
 
